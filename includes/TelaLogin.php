@@ -10,13 +10,13 @@
 <body>
     <section class="area-login"> 
         <div class="login"> 
-            <div><img src="/includes/img/imagem.png"></div>
-        <form method="POST">
+            <div class="logo"><img src="/includes/img/imagem.png"></div>
+          <form method="POST">
             <input type="text" none="name" placeholder="nome de usuario" autofocus>
             <input type="password" none="senha" placeholder="sua senha">
             <input type="submit" value="entrar">
-        <form\> 
-            <p>Ainda não tem uma conta? <a href="#">Criar conta</a></p>
+          <form\> 
+                <p>Ainda não tem uma conta? <a href="/includes/TelaCadastro.php">Criar conta</a></p>
         </div>
     </section>
 </body>

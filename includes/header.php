@@ -16,6 +16,6 @@
                  <li><a href="#">Cadastro</a></li>
                  <li><a href="/includes/TelaLogin.php">Login</a> </li>
             </ul>
-         </nav>
+        </nav>
 </body>
 </html>
