@@ -19,7 +19,7 @@ body{
     align-items:center;
     background-color: #181920;
     width: 325px;
-    height: 325px;
+    height: 290px;
     padding: 31px; 
     border-radius: 15px;
     margin-right: 0px;
@@ -54,11 +54,4 @@ p{
     color: white; 
     text-align: center;
 }
-a{
-    color: aqua;
-    text-decoration: none;
-    margin-left: 85px;
-    display: block;
-    font-size: 15px;
-    font-weight: bold;
-}
+
