@@ -8,14 +8,14 @@
 </head>
 
 <body>
-        <nav id="Menu-h">
-            <ul>
-                 <li><a href="#">Home</a></li>
-                 <li><a href="#">Sobre</a></li>
-                 <li><a href="#">Quem somos</a></li>
-                 <li><a href="#">Cadastro</a></li>
-                 <li><a href="/includes/TelaLogin.php">Login</a> </li>
-            </ul>
-        </nav>
+    <nav id="Menu-h">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Sobre</a></li>
+            <li><a href="#">Quem somos</a></li>
+            <li><a href="/includes/TelaCadastro.php">Cadastro</a></li>
+            <li><a href="/includes/TelaLogin.php">Login</a> </li>
+        </ul>
+    </nav>
 </body>
 </html>
